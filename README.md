@@ -31,8 +31,8 @@ while 루프에서 웹캠에서 프레임을 읽어와서 손을 인식합니다
 프레임에 원과 선, 사각형, 볼륨 표시를 추가하고 화면에 표시합니다.
 프로그램이 종료될 때까지 이를 반복합니다.
 v
+https://github.com/otabek98/VolumeController/assets/78654682/4a4179a6-6e2b-4fc6-8071-8cef11827ff9
 
-https://github.com/otabek98/VolumeController/assets/78654682/5ccf5a69-c349-4e1c-bc37-3ebce6762cce
 
 
 
