@@ -32,6 +32,7 @@ while 루프에서 웹캠에서 프레임을 읽어와서 손을 인식합니다
 프로그램이 종료될 때까지 이를 반복합니다.
 v
 
+https://github.com/otabek98/VolumeController/assets/78654682/5ccf5a69-c349-4e1c-bc37-3ebce6762cce
 
 
 
